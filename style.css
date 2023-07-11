@@ -51,7 +51,7 @@
 
 .banner-img {
     width: 560px;
-    height: 690px;
+    height: 740px;
     background-position: bottom, right;
     padding-right: 80px;
     margin-bottom: 0px;
@@ -180,11 +180,15 @@ height: 400px;
 
                                            /* instagram part  */
 .instagram{
-
+      padding-top: 50px;
 }                                       
 .insta-part-title{
     text-align: center;
 }   
+.img-size{
+    width: 242px;
+height: 296px;
+}
 
 .insta-image-section{
    display:flex;
@@ -193,6 +197,44 @@ height: 449px;
 background-color: rgb(255, 255, 254);
    align-items: center;
    justify-content: space-around;
-   margin: auto;
-   size: 40%;
+   margin:0px;
+   padding:0px 50px 0px 20px;
+}
+.cuppon-background{
+    padding-left: 100px;
+}
+
+.cuppon-part{
+text-align: center;
+ padding:100px;
+ background-repeat: no-repeat;
+ background-image: url("./Flower\ Asset/Rectangle 9.png");
+ margin-right: 100px;
+}
+
+
+.footer{
+    text-align:center;
+    width: 1510px;
+height: 250px;
+    padding-top: 60px;
+    color:rgb(254, 252, 252);
+    background-color: black;
+    align-items: center;
+    margin-top: 50px;
+}
+.text-and-button{
+    display:flex;
+    align-items: center;
+    padding-left: 300px;
+}
+.form-div{
+    border-radius: 8px;
+    background: #faf9f9;
+    border: 0px;
+    color: rgb(60, 59, 59);
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;
+    width:450px;
 }
