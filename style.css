@@ -153,6 +153,30 @@
     position: relative;
     margin-bottom: 100px;
 }
+.extra-part{
+    display:flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin-bottom: 100px;
+    margin-top: 0px;
+    width:1500px;
+    height:300px;
+    
+}
+.extra-title{
+    text-align: center;
+    color:#e64f6f;
+}
+.extra-img{
+    height: 200px;
+    padding: 0px 50px 20px 100px;
+    border-color: #e64f6f;
+    margin-left: 0px;
+    border: 10px solid transparent;
+    position: top,center;
+
+}
+
 
 /* 
 
